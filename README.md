@@ -1,7 +1,7 @@
 # Awesome-social
 If there is something to change, then do it inside your local drive and commit the changes then push it to master branch.
 
-To Nirangan: 
+To Niranjan: 
 
 So here are the steps that are needed to be done
 1. setup git 
