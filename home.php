@@ -11,102 +11,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <style>
-            body {
-                padding-top: 50px;
-                padding-bottom: 20px;
-            }
-        </style>
+    
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/home.css">
         <link rel="stylesheet" href="css/main.css">
+
         <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
-   <style type="text/css">
-        body{
-            font-family: 'Raleway', sans-serif;
-        }
 
-        .ng-dirty .ng-valid{
-            border-color:green;
-        }
-        .ng-dirty.ng-invalid{
-            border-color:red;
-        }
-
-
-        .facebook-share-box {
-            width: 100%;
-        }
-        .facebook-share-box .share {
-            -webkit-transition: 0.1s ease-out height;
-            -moz-transition: 0.1s ease-out height;
-            -ms-transition: 0.1s ease-out height;
-            -o-transition: 0.1s ease-out height;
-            transition: 0.1s ease-out height;
-            clear: both;
-            background: white;
-            border: 2px solid #dddddd;
-            margin-bottom: 10px;
-            position: relative;
-        }
-         
-        .facebook-share-box .share .arrow {
-            background: url(arrow.png) no-repeat #dddddd;
-            position: absolute;
-            width: 14px;
-            height: 10px;
-            left: 4px;
-            display: inline;
-            top: -10px;
-            -webkit-transition: 0.3s ease-out all;
-            -moz-transition: 0.3s ease-out all;
-            -ms-transition: 0.3s ease-out all;
-            -o-transition: 0.3s ease-out all;
-            transition: 0.3s ease-out all;
-        }
-         
-        .facebook-share-box .post-types li a {
-            color: #085083;
-            text-decoration: none;
-        }
-         
-        .facebook-share-box .post-types li a.active {
-            color: #404040;
-        }
-         
-        .facebook-share-box .post-types {
-            padding-left: 5px;
-        }
-         
-        .facebook-share-box ul {
-            list-style: none;
-            margin-bottom: 9px;
-        }
-         
-        .facebook-share-box .post-types li {
-            display: inline;
-            margin-right: 10px;
-        }
-         
-        .message {
-            border-radius: 0;
-            border: none;
-        }
-        .panel {
-            border-radius: 0;
-            border: none;
-            margin-bottom: 0;
-        }
-         
-        .privacy-dropdown {
-            width: 100px;
-        }
-        
-    
-
-    </style>
     </head>
     <body>
         <!--[if lt IE 7]>
