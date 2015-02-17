@@ -151,7 +151,7 @@
                               <div class="post container-fluid" ng-repeat="post in news.posts |  orderBy:post.date:reverse | limitTo:10">
                                 <div class="postcontent" >
                                     <h2>{{post.title}}   <small>{{post.date | date}} </small></h2>
-                                    <h3>{{post.subtitle}}</h3>
+                                    <h4>{{post.subtitle}}</h4>
                                     <p>{{post.content}}</p>
                                 </div>
 

@@ -131,7 +131,7 @@
 
 /*  Post css */
 .feed{
-        background:#aaf;
+        
         padding:20px;
 }
 
@@ -139,14 +139,14 @@
     font-family: 'Raleway', sans-serif;
 }
 .post{
-    background: #ccf;
+    border:1px solid #c2d0d3;
+    box-shadow: 5px 5px 5px #c2d0d3;
     margin-top:20px;
     padding: 20px;
 }
 
 .postcontent{
-    background: #fff;
-    padding:20px;
+    padding:10px;
 }
 
 
