@@ -101,24 +101,16 @@
                         <div class="newsfeed feed active container-fluid" ng-app="newsfeed" ng-controller="newsCtrl as news">
                             <div class="" >
                             <form  class="facebook-share-box" ng-controller="statusController as statusCtrl" ng-submit="statusCtrl.addStatus(news)" novalidate>
-                                <ul class="post-types">
-                                    <li class="post-type">
-                                        <a class="status" title="" href="#"><i class="icon icon-file"></i> Share an Update</a>
-                                    </li>
-                                    <li class="post-type">
-                                        <a class="photos" href="#"><i class="icon icon-camera"></i> Add photos</a>
-                                    </li>
-                                </ul>
+                                
                                 <div class="share">
-                                    <div class="arrow"></div>
                                     <div class="panel panel-default">
-                                          <div class="panel-heading"><i class="fa fa-file"></i> Update Status</div>
+                                          <div class="panel-heading" style="border-bottom:2px solid #c2d0d3;"><i class=""></i> Update Status</div>
                                           <div class="panel-body">
                                             <div class="">
                                                 <textarea name="message" cols="40" rows="10" id="status_message" ng-model="statusCtrl.status.content" class="form-control message" style="height: 62px; overflow: hidden;" placeholder="What's on your mind ?"></textarea> 
                                             </div>
                                           </div>
-                                          <div class="panel-footer">
+                                          <div class="panel-footer" style="">
                                                 <div class="row">
                                                     <div class="col-md-7">
                                                         <div class="form-group">
