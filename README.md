@@ -1,16 +1,25 @@
 # Awesome-social
-If there is something to change, then do it inside your local drive and commit the changes then push it to master branch.
+A truly free and open source Social network which you can contribute to and develop. Features include 
 
-To Niranjan: 
+* Sleek and stylish interface
+* Engage in Debates on trending topics
+* Ask and answer questions on your favourite topics.
+* Privacy and Security
+* customizable UI
+* More organized connections to friends,family and collegues.
+* No Ads
+* No Spam
 
-So here are the steps that are needed to be done
-1. setup git 
-2. fork this repo (upper right corner) to local drive
-3. Edit this file or some other file ..maybe add one.(in pc)
-4. open git shell 
-5. Type these cmds
-	git status ( shows which files have changes )
-	git add -A ( selects all files )
-	git commit -m "Enter some msg here"  ( saves the changes to your repo on local drive with a msg )
+Contact [Midhun](https://www.facebook.com/midhunadarvin) for more details.
 
-	git push origin master ( sends the changes to my repo )
+Installation
+-------
+
+The frontend is developed with [angular.js]() and [Bootstrap](). If you wish to test it out, install xampp and fork the repository to `~\xampp\htdocs`. Start apache and mysql services and go to `localhost\Awesome-social` .
+
+
+Contributing
+------------
+
+See [Contributing](CONTRIBUTING.md)
+
