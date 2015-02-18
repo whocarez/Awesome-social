@@ -1,2 +1,2 @@
 #Contributing
-*[Midhun](https://www.facebook.com/midhunadarvin)
+* [Midhun](https://www.facebook.com/midhunadarvin)

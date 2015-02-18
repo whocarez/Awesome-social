@@ -120,14 +120,18 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="col-md-5">
-                                                            <div class="form-group">
-                                                            <select name="privacy" class="form-control privacy-dropdown pull-left input-sm">
+                                                        <div class="col-md-5 col-md-push-2">
+                                                        <div class="form-group" id="update">  
+                                                            <select name="privacy" class="form-control privacy-dropdown pull-left input-sm ">
                                                                     <option value="1" selected="selected">Public</option>
                                                                     <option value="2">Only my friends</option>
                                                                     <option value="3">Only me</option>
-                                                            </select>                                    
-                                                            <input type="submit" name="submit" value="Post" class="btn btn-primary">                               
+                                                            </select>   
+                                                          
+                                                            <div class="">
+                                                                <input type="submit" name="submit" style="height:30px;line-height:15px;" value="Post" class="btn btn-primary"> 
+                                                            </div>                                 
+                                                                                          
                                                         </div>
                                                     </div>
                                                 </div>
